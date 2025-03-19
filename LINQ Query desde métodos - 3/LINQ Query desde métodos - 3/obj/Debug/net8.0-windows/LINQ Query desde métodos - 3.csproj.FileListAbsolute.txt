@@ -1,0 +1,6 @@
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\ClaseExplicita.resources
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\LINQ Query desde métodos - 3.csproj.GenerateResource.cache
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\LINQ Query desde métodos - 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\LINQ Query desde métodos - 3.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\LINQ Query desde métodos - 3.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\LINQ Query desde métodos - 3\LINQ Query desde métodos - 3\obj\Debug\net8.0-windows\LINQ Query desde métodos - 3.csproj.CoreCompileInputs.cache
