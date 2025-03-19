@@ -1,0 +1,6 @@
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\Program.resources
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\LINQEjecuciones-2.csproj.GenerateResource.cache
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\LINQEjecuciones-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\LINQEjecuciones-2.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\LINQEjecuciones-2.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\LINQEjecuciones-2\LINQEjecuciones-2\obj\Debug\net8.0-windows\LINQEjecuciones-2.csproj.CoreCompileInputs.cache
