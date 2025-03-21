@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WorkingWithXL como leer xml": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

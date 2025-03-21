@@ -1,0 +1,14 @@
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\bin\Debug\net8.0\WorkingWithXL como leer xml.exe
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\bin\Debug\net8.0\WorkingWithXL como leer xml.deps.json
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\bin\Debug\net8.0\WorkingWithXL como leer xml.runtimeconfig.json
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\bin\Debug\net8.0\WorkingWithXL como leer xml.dll
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\bin\Debug\net8.0\WorkingWithXL como leer xml.pdb
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.csproj.CoreCompileInputs.cache
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.dll
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\refint\WorkingWithXL como leer xml.dll
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.pdb
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\WorkingWithXL como leer xml.genruntimeconfig.cache
+C:\Users\Dell7480\source\repos\WorkingWithXL como leer xml\WorkingWithXL como leer xml\obj\Debug\net8.0\ref\WorkingWithXL como leer xml.dll
