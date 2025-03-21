@@ -1,0 +1,5 @@
+C:\Users\Dell7480\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.csproj.AssemblyReference.cache
+C:\Users\Dell7480\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\Json.Net Sample\Json.Net Sample\obj\Debug\net8.0\Json.Net Sample.csproj.CoreCompileInputs.cache
