@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Utilizar LINQ en archivos XML en C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
