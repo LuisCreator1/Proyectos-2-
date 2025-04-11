@@ -1,0 +1,14 @@
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\bin\Debug\net8.0\Prototype shallow en C#.exe
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\bin\Debug\net8.0\Prototype shallow en C#.deps.json
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\bin\Debug\net8.0\Prototype shallow en C#.runtimeconfig.json
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\bin\Debug\net8.0\Prototype shallow en C#.dll
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\bin\Debug\net8.0\Prototype shallow en C#.pdb
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.dll
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\refint\Prototype shallow en C#.dll
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.pdb
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\Prototype shallow en C#.genruntimeconfig.cache
+C:\Users\Dell7480\source\repos\Prototype shallow en C#\Prototype shallow en C#\obj\Debug\net8.0\ref\Prototype shallow en C#.dll

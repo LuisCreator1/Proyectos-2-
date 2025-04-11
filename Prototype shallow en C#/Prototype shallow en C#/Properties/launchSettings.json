@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Prototype shallow en C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
