@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Factory Method en C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
