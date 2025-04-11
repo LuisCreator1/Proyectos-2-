@@ -1,0 +1,14 @@
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\bin\Debug\net8.0\Singleton en C#.exe
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\bin\Debug\net8.0\Singleton en C#.deps.json
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\bin\Debug\net8.0\Singleton en C#.runtimeconfig.json
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\bin\Debug\net8.0\Singleton en C#.dll
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\bin\Debug\net8.0\Singleton en C#.pdb
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.AssemblyInfoInputs.cache
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.AssemblyInfo.cs
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.dll
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\refint\Singleton en C#.dll
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.pdb
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\Singleton en C#.genruntimeconfig.cache
+C:\Users\Dell7480\source\repos\Singleton en C#\Singleton en C#\obj\Debug\net8.0\ref\Singleton en C#.dll
