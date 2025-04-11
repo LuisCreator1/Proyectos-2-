@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0dkURbwRso=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell7480\\source\\repos\\Strategy en C#\\Strategy en C#\\Strategy en C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell7480\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
