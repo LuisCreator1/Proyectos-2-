@@ -1,0 +1,5 @@
+C:\Users\Dell7480\source\repos\Buscador de archivos con Regex C#\Buscador de archivos con Regex C#\obj\Debug\Buscador de archivos con Regex C#.csproj.AssemblyReference.cache
+C:\Users\Dell7480\source\repos\Buscador de archivos con Regex C#\Buscador de archivos con Regex C#\obj\Debug\BuscadorDeArchivos.Form1.resources
+C:\Users\Dell7480\source\repos\Buscador de archivos con Regex C#\Buscador de archivos con Regex C#\obj\Debug\Buscador_de_archivos_con_Regex_C_.Properties.Resources.resources
+C:\Users\Dell7480\source\repos\Buscador de archivos con Regex C#\Buscador de archivos con Regex C#\obj\Debug\Buscador de archivos con Regex C#.csproj.GenerateResource.cache
+C:\Users\Dell7480\source\repos\Buscador de archivos con Regex C#\Buscador de archivos con Regex C#\obj\Debug\Buscador de archivos con Regex C#.csproj.CoreCompileInputs.cache
